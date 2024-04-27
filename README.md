@@ -9,7 +9,7 @@ Welcome to my Data Analyst portfolio! Here you'll find a collection of projects 
 
 - **Description:** Developed a full fledge dashboard in terms of sales, operations & tracking processes. Embedded dashboard into customized ERP System for a Magnesium Distribution company in Canada.
 - **Technologies Used:** PowerBI, SQL, PowerQuery, DAX, APIs, .Net core, React
-- **Link:** <iframe title="testing" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWMyNGQ0YzEtMjRiNC00ZjRkLTg0YTQtYzI2NDU0NTViYmYxIiwidCI6IjQyYjgxNzU3LTIxNWItNDMxMS04ZjEwLTkwZjY5OGRhMzM1MiIsImMiOjl9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
+- **Link:** [<iframe title="testing" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWMyNGQ0YzEtMjRiNC00ZjRkLTg0YTQtYzI2NDU0NTViYmYxIiwidCI6IjQyYjgxNzU3LTIxNWItNDMxMS04ZjEwLTkwZjY5OGRhMzM1MiIsImMiOjl9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/view?r=eyJrIjoiZWMyNGQ0YzEtMjRiNC00ZjRkLTg0YTQtYzI2NDU0NTViYmYxIiwidCI6IjQyYjgxNzU3LTIxNWItNDMxMS04ZjEwLTkwZjY5OGRhMzM1MiIsImMiOjl9&embedImagePlaceholder=true)
 
 ### 2. Customer Segmentation Study
 
