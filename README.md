@@ -53,5 +53,5 @@ Welcome to my Data Analyst portfolio! Here you'll find a collection of projects 
 
 ## Contact Me
 
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **Email:** your@email.com
+- **LinkedIn:** (https://www.linkedin.com/in/muhammad-shehbaz-khan/)
+- **Email:** shehbazkhanofficial@email.com
