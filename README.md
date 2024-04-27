@@ -1,14 +1,14 @@
 # Data-Analytics-Portfolio
-
+<img src="C:/Users/shehb/Downloads/Shehbaz.jpeg" align="right" width="100">
 Welcome to my Data Analyst portfolio! Here you'll find a collection of projects and analyses that showcase my skills and experience in data analysis, visualization, and storytelling. Feel free to explore and reach out with any questions or opportunities for collaboration.
 
 ## Projects
 
-### 1. Sales Analysis Dashboard
+### 1. Natural Calm (Supply Chain Management)
 
-- **Description:** Developed an interactive dashboard to visualize sales data using Python and Plotly Dash.
-- **Technologies Used:** Python, Pandas, Plotly Dash, HTML, CSS
-- **Link:** [Sales Analysis Dashboard](link-to-dashboard)
+- **Description:** Developed a full fledge dashboard in terms of sales, operations & tracking processes. Embedded dashboard into customized ERP System for a Magnesium Distribution company in Canada.
+- **Technologies Used:** PowerBI, SQL, PowerQuery, DAX, APIs, .Net core, React
+- **Link:** <iframe title="testing" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWMyNGQ0YzEtMjRiNC00ZjRkLTg0YTQtYzI2NDU0NTViYmYxIiwidCI6IjQyYjgxNzU3LTIxNWItNDMxMS04ZjEwLTkwZjY5OGRhMzM1MiIsImMiOjl9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
 
 ### 2. Customer Segmentation Study
 
