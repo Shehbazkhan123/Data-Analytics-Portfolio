@@ -1,17 +1,6 @@
-<style>
-    .profile-image {
-        float: right;
-        margin-top: -50px; /* Adjust this value to position the image */
-        border-radius: 50%; /* Makes the image round */
-        border: 2px solid #555; /* Adds a border around the image */
-        width: 100px; /* Set the width of the image */
-        height: 100px; /* Set the height of the image */
-    }
-</style>
-
 # Data Analytics Portfolio
 
-<img src="https://github.com/Shehbazkhan123/Data-Analytics-Portfolio/assets/48380632/ef6d490f-fc8d-4751-a23f-2c2a0f933d43" alt="Shehbaz" class="profile-image">
+![Shehbaz](https://github.com/Shehbazkhan123/Data-Analytics-Portfolio/assets/48380632/ef6d490f-fc8d-4751-a23f-2c2a0f933d43)
 
 
 Welcome to my Data Analyst portfolio! Here you'll find a collection of projects and analyses that showcase my skills and experience in data analysis, visualization, and storytelling. Feel free to explore and reach out with any questions or opportunities for collaboration.
