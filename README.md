@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-![Shehbaz](https://github.com/Shehbazkhan123/Data-Analytics-Portfolio/assets/48380632/ef6d490f-fc8d-4751-a23f-2c2a0f933d43?s=10)
+![Shehbaz](https://github.com/Shehbazkhan123/Data-Analytics-Portfolio/assets/48380632/ef6d490f-fc8d-4751-a23f-2c2a0f933d43?s=2)
 
 
 Welcome to my Data Analyst portfolio! Here you'll find a collection of projects and analyses that showcase my skills and experience in data analysis, visualization, and storytelling. Feel free to explore and reach out with any questions or opportunities for collaboration.
