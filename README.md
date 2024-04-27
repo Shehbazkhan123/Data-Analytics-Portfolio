@@ -1,5 +1,5 @@
 # Data-Analytics-Portfolio
-![Image](C:/Users/shehb/Downloads/Shehbaz.jpeg)
+![Image](Shehbaz.jpg)
 
 Welcome to my Data Analyst portfolio! Here you'll find a collection of projects and analyses that showcase my skills and experience in data analysis, visualization, and storytelling. Feel free to explore and reach out with any questions or opportunities for collaboration.
 
